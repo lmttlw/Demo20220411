@@ -1,0 +1,14 @@
+C:\Users\F1685778\Desktop\Script\Demos\Demo20220411\Demo20220411\Demo20220411\bin\Debug\Demo20220411.exe.config
+C:\Users\F1685778\Desktop\Script\Demos\Demo20220411\Demo20220411\Demo20220411\bin\Debug\Demo20220411.exe
+C:\Users\F1685778\Desktop\Script\Demos\Demo20220411\Demo20220411\Demo20220411\bin\Debug\Demo20220411.pdb
+C:\Users\F1685778\Desktop\Script\Demos\Demo20220411\Demo20220411\Demo20220411\obj\Debug\Demo20220411.csproj.AssemblyReference.cache
+C:\Users\F1685778\Desktop\Script\Demos\Demo20220411\Demo20220411\Demo20220411\obj\Debug\Demo20220411.csproj.CoreCompileInputs.cache
+C:\Users\F1685778\Desktop\Script\Demos\Demo20220411\Demo20220411\Demo20220411\obj\Debug\Demo20220411.exe
+C:\Users\F1685778\Desktop\Script\Demos\Demo20220411\Demo20220411\Demo20220411\obj\Debug\Demo20220411.pdb
+D:\代码\Script\Script\Demos\Demo20220411（金额数字转汉字&简体转繁体）\Demo20220411\Demo20220411\bin\Debug\Demo20220411.exe.config
+D:\代码\Script\Script\Demos\Demo20220411（金额数字转汉字&简体转繁体）\Demo20220411\Demo20220411\bin\Debug\Demo20220411.exe
+D:\代码\Script\Script\Demos\Demo20220411（金额数字转汉字&简体转繁体）\Demo20220411\Demo20220411\bin\Debug\Demo20220411.pdb
+D:\代码\Script\Script\Demos\Demo20220411（金额数字转汉字&简体转繁体）\Demo20220411\Demo20220411\obj\Debug\Demo20220411.csproj.AssemblyReference.cache
+D:\代码\Script\Script\Demos\Demo20220411（金额数字转汉字&简体转繁体）\Demo20220411\Demo20220411\obj\Debug\Demo20220411.csproj.CoreCompileInputs.cache
+D:\代码\Script\Script\Demos\Demo20220411（金额数字转汉字&简体转繁体）\Demo20220411\Demo20220411\obj\Debug\Demo20220411.exe
+D:\代码\Script\Script\Demos\Demo20220411（金额数字转汉字&简体转繁体）\Demo20220411\Demo20220411\obj\Debug\Demo20220411.pdb
